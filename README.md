@@ -25,7 +25,7 @@
   1. Tilføj "Sign up" siden, så du også kan oprette en ny bruger.
 
 ### **API til opgaven**
-  Du kan klone api'et til opgaven her: https://github.com/rts-cmk-opgaver/frameworks1-petapp-api
+  Du kan klone api'et til opgaven her: https://github.com/rts-cmk-opgaver/frameworks1-auth-api
 
 ### **Husk!**
 - Commit og push ofte
